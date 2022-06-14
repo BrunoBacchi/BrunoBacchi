@@ -3,12 +3,12 @@
 - 🔭 Atualmente estou estudando na Fatec Taquaritinga/ 3º Semestre
 - 🌱Estudando C# Javascript e C++
 - 📫 Contate-me no Email: bruno458274@hotmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/BrunoBacchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBacchi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBacchi&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunoBacchi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBacchi&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
   <div style="display: inline_block"><br>
