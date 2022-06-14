@@ -1,4 +1,4 @@
-# Olá! Seja Bem-vindo ao meu perfil!
+# Olá! Seja Bem-vindo ao meu perfil! 👋
 
 - 🔭 Atualmente estou estudando na Fatec Taquaritinga/ 3º Semestre
 - 🌱Estudando C# Javascript e C++
