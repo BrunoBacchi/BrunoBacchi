@@ -1,6 +1,6 @@
 # Olá!👋 Seja Bem-vindo ao meu perfil! 
 
-- 🔭 Atualmente estou estudando na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/)/ 3º Semestre
+- 🔭 Atualmente estou estudando na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/)/ 8º Semestre
 - 🌱Estudando Javascript e Java
 - 📫 Contate-me no Email: bruno458274@hotmail.com
 - 😄 Pronomes: Ele/Dele
