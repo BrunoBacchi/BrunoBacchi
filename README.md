@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/)/ 8º Semestre
 - 🌱 Estudando TypeScript | React | TailwindCSS | Angular
-- 🎉 Estiagiário em DevSecOps pela CompassUOL. Estudando: Kubernetes | Docker | FinOps | Linux | AWS CloudFront | AWS WAF
+- 🎉 Estiagiário em DevSecOps pela CompassUOL Estudando: Kubernetes | Docker | FinOps | Linux | AWS CloudFront | AWS WAF
 - 📫 Contate-me no Email: bruno458274@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
